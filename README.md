@@ -6,8 +6,7 @@
 
 ----
 
-/ScreenShots/screenshot01.png
-
+![ScreenShot](https://media.discordapp.net/attachments/987313064401596436/989790075724398642/screenshot01.png)
 
 
 # How to use ?
