@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Asus\\Desktop\\Github\\C#\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asus\\Desktop\\Github\\C#\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Github\\C#\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+        "projectName": "YoutubeDownloader",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Github\\C#\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Github\\C#\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FFMpegCore": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.3.2, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
