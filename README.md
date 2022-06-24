@@ -20,11 +20,12 @@
 ## In progress
 ---
 - [x] select Target Folder 
-- [ ] support playlist
-- [ ] Stream youtube on app
-- [ ] remake GUI
-- [ ] CLI application
-- [ ] add Proxy for download and stream
+- [ ] support playlist [v2.0]
+- [ ] Stream youtube on app [v2.0]
+- [ ] remake GUI [v2.0]
+- [ ] add Proxy for download and stream [v2.0]
+- [ ] CLI application [v3.0]
+
 
 
 
