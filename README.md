@@ -11,11 +11,12 @@
 
 # How to use ?
 ---
-1. open YoutubeDownloader.exe
-2. put your youtube video link
-3. press download
-4. select folder & wait to finish
-5. open target Folder & enjoy
+1. open .sln file & Build project
+2. open YoutubeDownloader.exe
+3. put your youtube video link
+4. press download
+5. select folder & wait to finish
+6. open target Folder & enjoy
 
 ## In progress
 ---
